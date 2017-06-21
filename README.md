@@ -1,2 +1,2 @@
-# hello-world
-intro to git
+// hello-world
+// Just a guy trying to learn to code.
